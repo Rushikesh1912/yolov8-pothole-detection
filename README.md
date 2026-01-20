@@ -15,7 +15,7 @@ Municipal maintenance automation
 
 ▶️ **Click below to watch the pothole detection demo video**
 
-[![Pothole Detection Demo](assets/img-344_jpg.rf.dd4eebb8836b8.jpg)](assets/pothole_video%20(1).mp4)
+[![Pothole Detection Demo](assets/img-344_jpg.rf.dd4eebb8836b8efe2a2cce77d61349b7.jpg)](assets/pothole_video%20(1).mp4)
 
 Description: 
 This video demonstrates real-time pothole detection using the trained YOLOv8 model.  
