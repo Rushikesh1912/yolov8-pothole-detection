@@ -13,14 +13,14 @@ Municipal maintenance automation
 
 🎥 Real-World Pothole Detection Demo (Model Output)
 
-<video width="100%" controls>
-  <source src="assets/pothole_video%20(1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+▶️ **Click below to watch the pothole detection demo video**
 
-**Description:**  
+[![Pothole Detection Demo](assets/img-344_jpg.rf.dd4eebb8836b8.jpg)](assets/pothole_video%20(1).mp4)
+
+Description: 
 This video demonstrates real-time pothole detection using the trained YOLOv8 model.  
 Bounding boxes and confidence scores are overlaid on real road footage.
+
 
 ✨ Key Features
 ✅ Custom YOLOv8 object detection model
